@@ -4,4 +4,4 @@ all function defined in AppleAPIC-17 for Yosemite.
 Current status:
 - Yosemite AppleAPIC-17 is fully implemented.
 -Using for PureDarwin 14.5
-
+- disabled codesigning as not needed for puredarwin
